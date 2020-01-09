@@ -87,7 +87,7 @@ def main():
                 os.chdir("..")
                 print("finished processing {} --- time required was: ".format(file, elapsed_time))
             except:
-                print("Something went wrong with {}")
+                print("Something went wrong with {}".format(file))
                 os.chdir(root_dir)
         else:
             pass
