@@ -1,6 +1,6 @@
 # Analysis Pipeline for Analyzing Aging Transcriptomes Across Multiple Species
 A home for all projects that automate genetic investigation of Provenza sequences
-###![BI IAV Pipeline](bi_logo.png)
+![ISU Logo](isu_logo.png)
 
 # Description
 This pipeline was developed to automate the interrogation of RNA sequencing data. 
