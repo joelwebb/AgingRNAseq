@@ -1,5 +1,5 @@
 # Analysis Pipeline for Analyzing Aging Transcriptomes Across Multiple Species
-A home for all projects that automate genetic investigation of Provenza sequences
+A home for all projects that using machine learning for genetic investigation of RNA sequencing data across species.
 ![ISU Logo](isu_logo.png)
 
 # Description
