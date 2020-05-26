@@ -1,7 +1,7 @@
 import os
 import time
 from shutil import copy2
-
+## This file will walk through the basic steps of preprocessing the fastq files following downloading from NCBI#
 def fastqc_report(input_fastq):
     """creates a fastqc report"""
     try:
