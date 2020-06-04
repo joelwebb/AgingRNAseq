@@ -18,6 +18,13 @@ All of the required packages are described in the requirements.txt file. To inst
 # Usage
 Open up one of the python notebooks by running a command prompt and typing the following commands:
   python -m notebook
+  
+ To recreate the analysis pipeline, run the following steps:
+ 	1) Download the fastq files from the SRA - it will take about 1-2TB of storage space so please be cautious on what you are downloading! 
+	2) Process the files with the python code quantseq_pipeline.py to convert the raw fastq files into tabulated data
+	3) Combine the tabulated data and run the R code RLE_deseq.r.r to perform differential expression analysis following normalization.
+	4) Run regression analysis and classification analysis with one of the two python notebooks provided above. 
+	For more information, please see the manuscript here: [Insert manuscript link here]
 
 
 # Support
